@@ -9,6 +9,10 @@ Criei este projeto para bloquear anúncios e rastreadores em todos os aparelhos 
 ## Resultado (Vídeos)
 ![Site com anúncios](midia/antes_dns_operadora.gif) ![Site limpo](midia/depois_pihole_v6.gif) 
 
+**Antes:** Navegação utilizando o DNS padrão, com diversos anúncios e rastreadores carregando na página.
+
+**Depois:** A mesma navegação utilizando o Pi-hole como DNS da rede, com anúncios bloqueados e a página carregando limpa.
+
 ## O que aprendi fazendo isso:
 1. **Linux:** Como configurar pastas, permissões e instalar serviços via terminal.
 2. **Redes:** Como funciona o DNS e como configurar o IP fixo.
