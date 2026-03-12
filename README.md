@@ -29,4 +29,4 @@ Criei este projeto para bloquear anúncios e rastreadores em todos os aparelhos 
 ![Firewall](midia/configuracao_ufw_firewall.png)
 
 *TV-Box:*
-![TV-Box](midia/tvbox.png)
+![TV-Box](midia/tvbox.jpg)
