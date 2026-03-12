@@ -7,8 +7,8 @@ Criei este projeto para bloquear anúncios e rastreadores em todos os aparelhos 
 * **Software:** Pi-hole v6 (para o bloqueio) e UFW (para segurança).
 
 ## Resultado (Vídeos)
-* [Veja o site com anúncios](midia/antes_dns_operadora.webm)
-* [Veja o site limpo pelo meu servidor](midia/depois_pihole_v6.webm)
+* ![Site com anúncios](antes_dns_operadora.gif)
+* ![Site limpo](depois_pihole_v6.gif)
 
 ## O que aprendi fazendo isso:
 1. **Linux:** Como configurar pastas, permissões e instalar serviços via terminal.
@@ -17,6 +17,6 @@ Criei este projeto para bloquear anúncios e rastreadores em todos os aparelhos 
 
 ## Fotos do Sistema
 *Dashboard do Pi-hole e monitoramento via terminal:*
-![Dashboard](midia/dashboard_pihole_v6.png)
-![Monitoramento](midia/monitoramento_padd.png)
-![Firewall](midia/configuracao_ufw_firewall.png)
+![Dashboard](dashboard_pihole_v6.png)
+![Monitoramento](monitoramento_padd.png)
+![Firewall](configuracao_ufw_firewall.png)
