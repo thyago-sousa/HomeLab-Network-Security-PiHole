@@ -19,7 +19,14 @@ Criei este projeto para bloquear anúncios e rastreadores em todos os aparelhos 
 3. **Segurança:** Como fechar as portas do servidor com um Firewall.
 
 ## Fotos do Sistema
-*Dashboard do Pi-hole e monitoramento via terminal:*
+*Dashboard do Pi-hole:*
 ![Dashboard](midia/dashboard_pihole_v6.png)
+
+*Monitoramento via terminal:*
 ![Monitoramento](midia/monitoramento_padd.png)
+
+*Configuração do Firewall:*
 ![Firewall](midia/configuracao_ufw_firewall.png)
+
+*TV-Box:*
+![TV-Box](midia/tvbox.png)
